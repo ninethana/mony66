@@ -1,0 +1,16 @@
+{
+  "name": "mony66",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Olymp Trade- โอลิมเทรด เทรดไบนารี่ิิออฟชั่นกับโบรกที่ดีที่สุด ทำกำไรภายใน 1 นาที Forex, FTT, หุ้น โปรฝากเงิน 50%",
+  "keywords": [
+    "โอลิมเทรด",
+    "สมัครโอลิมเทรด",
+    "ไบนารี่ออฟชั่น"
+  ],
+  "repository": "https://github.com/ninethana/mony66",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
